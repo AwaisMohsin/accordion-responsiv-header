@@ -9,8 +9,8 @@ This is a simple website project that demonstrates the use of HTML, CSS, and Jav
 - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
-- [Contributing](#contributing)
 - [License](#license)
+- [Contributing](#contributing)
 - [PS](#license)
 
 ## Features
@@ -45,13 +45,6 @@ and
 
 ![Pa-5](https://user-images.githubusercontent.com/101975404/222779440-4f3eedfd-f7d4-4760-aae7-ed971d6c7dff.png)
 
-## Contributing
-
-A brief guide for how other people can contribute to the project. Include information about how to submit pull requests and the project's code of conduct.
-
-
-
-
 ## License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software for personal or commercial purposes, including the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
@@ -61,6 +54,17 @@ If someone wanted to use this project, I would appreciate it if they contacted m
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Contributing
+
+If you'd like to contribute to this project, there are a few ways that you can help out:
+
+- **Report issues:** If you find any bugs or issues with the project, please [open a new issue](https://github.com/your-username/your-project-name/issues) on GitHub. Be sure to include a detailed description of the problem, along with any steps that are necessary to reproduce it.
+- **Provide feedback:** If you have any feedback or suggestions for the project, please let me know! You can [open a new issue](https://github.com/your-username/your-project-name/issues) or send me a message directly.
+- **Contribute code:** If you'd like to contribute code to the project, please [fork the repository](https://github.com/your-username/your-project-name/fork) and create a new branch for your changes. Once you've made your changes, submit a [pull request](https://github.com/your-username/your-project-name/pulls) for review.
+
+Please note that any images used in this project were obtained from free sources on the internet, such as Google Images. If you believe that any of these images infringe on your copyright, please let me know and I will remove them immediately.
+
 
 
 ## PS
